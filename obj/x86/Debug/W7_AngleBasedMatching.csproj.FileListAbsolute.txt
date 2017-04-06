@@ -1,0 +1,64 @@
+d:\Dropbox\SM3603\Src\W7_PoseMatching\W7_AngleBasedMatching\bin\Debug\W7_AngleBasedMatching.exe
+d:\Dropbox\SM3603\Src\W7_PoseMatching\W7_AngleBasedMatching\bin\Debug\W7_AngleBasedMatching.pdb
+d:\Dropbox\SM3603\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\MainWindow.baml
+d:\Dropbox\SM3603\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\MainWindow.g.cs
+d:\Dropbox\SM3603\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\App.g.cs
+d:\Dropbox\SM3603\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching_MarkupCompile.cache
+d:\Dropbox\SM3603\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.g.resources
+d:\Dropbox\SM3603\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.Properties.Resources.resources
+d:\Dropbox\SM3603\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.csproj.GenerateResource.Cache
+d:\Dropbox\SM3603\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.exe
+d:\Dropbox\SM3603\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.pdb
+d:\Dropbox\SM3603\Topic07-Pose.Matching\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.exe
+d:\Dropbox\SM3603\Topic07-Pose.Matching\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.pdb
+d:\Dropbox\SM3603\Topic07-Pose.Matching\W7_PoseMatching\W7_AngleBasedMatching\bin\Debug\W7_AngleBasedMatching.exe
+d:\Dropbox\SM3603\Topic07-Pose.Matching\W7_PoseMatching\W7_AngleBasedMatching\bin\Debug\W7_AngleBasedMatching.pdb
+d:\Dropbox\SM3603\Topic07-Pose.Matching\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\MainWindow.baml
+d:\Dropbox\SM3603\Topic07-Pose.Matching\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\MainWindow.g.cs
+d:\Dropbox\SM3603\Topic07-Pose.Matching\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\App.g.cs
+d:\Dropbox\SM3603\Topic07-Pose.Matching\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching_MarkupCompile.cache
+d:\Dropbox\SM3603\Topic07-Pose.Matching\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.g.resources
+d:\Dropbox\SM3603\Topic07-Pose.Matching\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.Properties.Resources.resources
+d:\Dropbox\SM3603\Topic07-Pose.Matching\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.csproj.GenerateResource.Cache
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\bin\Debug\W7_AngleBasedMatching.exe
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\bin\Debug\W7_AngleBasedMatching.pdb
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\MainWindow.baml
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\MainWindow.g.cs
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\App.g.cs
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching_MarkupCompile.cache
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.g.resources
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.Properties.Resources.resources
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.csproj.GenerateResource.Cache
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.exe
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.pdb
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\bin\Debug\ding.wav
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching_Content.g.cs
+D:\OneDrive\Teaching\SM3603-Fall\Src\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.csprojResolveAssemblyReference.cache
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.exe
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.pdb
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\bin\Debug\ding.wav
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\bin\Debug\W7_AngleBasedMatching.exe
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\bin\Debug\W7_AngleBasedMatching.pdb
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.csprojResolveAssemblyReference.cache
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\MainWindow.baml
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\MainWindow.g.cs
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\App.g.cs
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching_Content.g.cs
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching_MarkupCompile.cache
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.g.resources
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.Properties.Resources.resources
+F:\W7_PoseMatching (1)\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.csproj.GenerateResource.Cache
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.exe
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.pdb
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\bin\Debug\ding.wav
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\bin\Debug\W7_AngleBasedMatching.exe
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\bin\Debug\W7_AngleBasedMatching.pdb
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\MainWindow.baml
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\MainWindow.g.cs
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\App.g.cs
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching_Content.g.cs
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching_MarkupCompile.cache
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.g.resources
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.Properties.Resources.resources
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.csproj.GenerateResource.Cache
+F:\SM3603_Ass2_54115656_LeungKinLok\W7_PoseMatching\W7_AngleBasedMatching\obj\x86\Debug\W7_AngleBasedMatching.csprojResolveAssemblyReference.cache
